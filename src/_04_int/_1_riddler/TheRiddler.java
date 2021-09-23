@@ -12,7 +12,7 @@ public class TheRiddler {
 int score = 0;
 String answer1 = "A coffin";
 String answer2 = "A piano";
-String answer3 = " A road";
+String answer3 = "A road";
 		// 3. Ask the user a riddle. Here are some ideas: bit.ly/some-riddles
 String question1 = JOptionPane.showInputDialog("Who makes it, has no need of it.\r\n" + 
 		"Who buys it, has no use for it.\r\n" + 
